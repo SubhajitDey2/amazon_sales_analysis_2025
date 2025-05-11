@@ -10,8 +10,7 @@ ________________________________________________________________________________
 ## Dataset Columns
 The dataset used (```amazon_sales```) contains the following fields:\
  •	```Order_ID```, ```Date```, ```Product```, ```Category```, ```Price```, ```Quantity```, ```Total_Amount```, ```Customer_Name```, ```City```,\
-```Payment_Method```,``` Order_Status```\
- • [Download From Kaggle](https://www.kaggle.com/datasets/zahidmughal2343/amazon-sales-2025/data)
+```Payment_Method```,``` Order_Status```
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## Tools Used
