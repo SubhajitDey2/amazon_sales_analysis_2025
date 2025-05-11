@@ -1,2 +1,5 @@
-# amazon_sales_analysis_2025
-A SQL Data Analysis  To Get the Business Insights  and Take Business Decisions to Improve sales , Marketing, Logistics and Improving Overall Performance of the Company
+![Updated Photo](https://github.com/SubhajitDey2/amazon_sales_analysis_2025/blob/main/amazonsalesanalysisbg.png)
+# Amazon Sales Analysis 2025
+Prepared By: Subhajit Dey <br>
+Date: 11-May-2025
+
